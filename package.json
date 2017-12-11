@@ -1,0 +1,29 @@
+{
+  "name": "fork-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI for creating your projects",
+  "bin": {
+    "fork": "bin/fork"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ykshao/fork-cli.git"
+  },
+  "keywords": [
+    "fork",
+    "cli",
+    "es6"
+  ],
+  "author": "ykshao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ykshao/fork-cli/issues"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.12.2",
+    "git-clone": "^0.1.0"
+  }
+}
