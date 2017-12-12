@@ -19,7 +19,7 @@ A simple CLI for creating your projects
 
     =================
       |__ bin
-        |__ fork粗体文本
+        |__ fork
       |__ command
         |__ add.js
         |__ delete.js
